@@ -91,6 +91,10 @@ Encourages Engagement: Users are more likely to explore more listings, save prop
 
 In summary, UI/UX design isn’t just about looks—it’s about creating a smooth and stress-free journey from discovery to confirmation, resulting in both user loyalty and business success.
 
+---
+
+Color Styles
+
 Name Hex Code Use Case
 
 Primary #FF5A5F Call-to-actions (CTA), buttons, icons
