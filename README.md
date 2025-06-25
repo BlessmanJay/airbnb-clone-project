@@ -90,3 +90,60 @@ Minimizes Abandonment: A complex or confusing interface often leads users to aba
 Encourages Engagement: Users are more likely to explore more listings, save properties, or even share them with others if the interface is enjoyable to use.
 
 In summary, UI/UX design isn’t just about looks—it’s about creating a smooth and stress-free journey from discovery to confirmation, resulting in both user loyalty and business success.
+
+Name Hex Code Use Case
+
+Primary #FF5A5F Call-to-actions (CTA), buttons, icons
+
+Secondary #008489 Highlights, accents, active states
+
+Background #FFFFFF Page background, containers
+
+Text #222222 Main body text, titles, labels
+Secondary Text #717171 Placeholder text, subtitles, captions
+
+---
+
+Typography Styles
+
+Type Font Family Font Weight Font Size Use Case
+
+Primary Text Circular Medium (500) 16px Default text, buttons, body content
+Headings Circular Bold (700) 24px–32px Section titles, headers
+Secondary Text Circular Book (400) 14px Subtitles, descriptions, helper text
+
+---
+
+Why It’s Important to Identify Design Properties in a Mockup Design
+
+Identifying and defining design properties like colors and typography is crucial to building consistent, scalable, and user-friendly interfaces. Here's why:
+
+1. Consistency Across the UI
+
+Design properties ensure all pages and components feel cohesive.
+
+Users develop trust when the interface behaves and looks the same throughout.
+
+2. Efficient Handoff to Developers
+
+Clear specifications help developers know exactly what values to use in code.
+
+Avoids guesswork and ensures fidelity to the original design.
+
+3. Faster Prototyping & Iteration
+
+Design tokens (like color styles and fonts) speed up mockup creation and updates.
+
+Easily apply global changes when using shared styles.
+
+4. Improved Accessibility & Readability
+
+Appropriate font sizes and color contrast improve legibility for all users.
+
+Helps meet accessibility standards (like WCAG compliance).
+
+5. Professionalism & Branding
+
+A well-defined style guide strengthens your brand identity.
+
+It ensures your product looks polished and deliberate, not random.
